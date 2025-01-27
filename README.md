@@ -27,7 +27,7 @@ See the latest documentation at the Data descriptor, published in Scientific Dat
 
 ## License
 
-Copyright 2025 Laura Quintana-Quintana, Esther Sauras-Colón, Javier Santana-Nunez, alessio Fiorin
+Copyright 2025 Laura Quintana-Quintana, Esther Sauras-Colón, Javier Santana-Nunez, Alessio Fiorin
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
