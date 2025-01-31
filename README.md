@@ -1,4 +1,4 @@
-# Histological-Hyperspectral-Breast Cancer-Recurrence-Dataset
+# Histological-Hyperspectral-Breast Cancer-Recurrence Dataset
 This project is intended to provide a basic example of how to load and perform some basic preprocessing for hyperspectral data in ENVI format using Python and MATLAB. The data used in this project corresponds to the Histological Hyperspectral Glioblastoma Dataset.
 
 ## Dataset 
