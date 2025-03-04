@@ -12,7 +12,7 @@ This repository contains the following scripts:
 
 ## Dependencies
 
-Python script rquires:
+Python script requires:
    - Openslide. Python module for reading whole-slide image formats. https://openslide.org/  
    - Spectral Python (SPy). Python module for hyperspectral image processing. https://www.spectralpython.net
    - Harris, C.R., Millman, K.J., van der Walt, S.J. et al. Array programming with NumPy. Nature 585, 357–362 (2020). https://doi.org/10.1038/s41586-020-2649-2
