@@ -8,7 +8,7 @@ This dataset contains 47 histopathological and 677 hyperspectral images from 47 
 ## Usage
 
 This repository contains the following scripts:
-* `main.ipynb`: provide an basic example of how to load and perform some basic preprocessing to hispathological (.mrxs) and hyperspectral (ENVI format) data using Python.
+* `main.ipynb`: provide a basic example of how to load and perform some basic preprocessing to hispathological (.mrxs) and hyperspectral (ENVI format) data using Python.
 
 ## Dependencies
 
