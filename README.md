@@ -9,7 +9,7 @@ This dataset contains 47 histopathological and 677 hyperspectral images from 47 
 
 This repository contains the following scripts:
 * `main.ipynb`: provide a basic example of how to load and perform some basic preprocessing to hispathological (.mrxs) and hyperspectral (ENVI format) data using Python.
-
+* `overlay_tissue_areas.py`: provide a tutorial on manipulating annotations in GeoJSON format to overlay tissue compartments on a slide image using Python.
 ## Dependencies
 
 Python script requires:
