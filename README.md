@@ -3,13 +3,13 @@ This project is intended to provide a basic example of how to load and perform s
 
 ## Dataset 
 
-This dataset contains 47 histopathological and 677 hyperspectral images from 47 patients diagnosed with breast tumors, together with their clinical data. Out of these patients, 22 had distant recurrence during the 10 years of follow-up after diagnosis. More information about the dataset can be found on:
+This dataset contains 47 histopathological and 677 hyperspectral images from 47 patients diagnosed with breast tumors, together with their clinical data. Out of these patients, 22 had distant recurrence during the 12 years of follow-up after diagnosis. More information about the dataset can be found on:
 
 ## Usage
 
 This repository contains the following scripts:
 * `main.ipynb`: provide a basic example of how to load and perform some basic preprocessing to hispathological (.mrxs) and hyperspectral (ENVI format) data using Python.
-* `overlay_tissue_areas.py`: provide a tutorial on manipulating annotations in GeoJSON format to overlay tissue compartments on a slide image using Python.
+* `overlay_tissue_areas.ipynb`: provide a tutorial on manipulating annotations in GeoJSON format to overlay tissue compartments on a slide image using Python.
 ## Dependencies
 
 Python script requires:
